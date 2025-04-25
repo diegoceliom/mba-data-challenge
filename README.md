@@ -1,5 +1,7 @@
 # MBA Data Challenge
 
+![Capa](assets/banner-data-challenge1.avif)
+
 Projeto desenvolvido para o Data Challenge do MBA em Business Intelligence & Analytics, com foco em análise e otimização do fluxo produtivo de uma indústria metalúrgica.
 
 ## Objetivo
@@ -16,6 +18,7 @@ Transformar dados operacionais dispersos em clareza analítica, identificando ga
 
 ## Estrutura do Repositório
 
+├── assets/ # Recursos estáticos do projeto 
 ├── data/ # Bases de dados utilizadas no projeto
 ├── notebooks/ # Notebooks de análise e exploração dos dados
 ├── dashboards/ # Dashboards desenvolvidos (Power BI, Tableau, etc.)
@@ -33,8 +36,9 @@ Transformar dados operacionais dispersos em clareza analítica, identificando ga
 - Eficiência operacional por tipo de pedido/material
 - SLA de atendimento ao cliente
 
-## Squad
+## Squad 19 - Brainlytics
 
+- Cleyton Roger De Almeida
 - Diego Celio Fonseca Mendes
 - Felipe Cavalcante Da Silveira
 - Lucas Santos
